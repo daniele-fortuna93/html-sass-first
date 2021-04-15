@@ -1,0 +1,23 @@
+body {
+  background-color: #333333;
+}
+
+.titolo {
+  color: #e50c15;
+  font-size: 50px;
+}
+
+.titolo_secondary {
+  color: #fff;
+}
+
+.paragrafo {
+  color: #EAEAEA;
+}
+
+.bottone {
+  color: #D5F9BA;
+  background-color: grey;
+  border: none;
+  padding: 10px;
+}

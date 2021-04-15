@@ -1,0 +1,28 @@
+// color
+$primary_color: #333333;
+$title_color: #e50c15;
+$secondary_color: #fff;
+$paragraph_color: #EAEAEA;
+$button_color: #D5F9BA;
+// font size
+$font_big: 50px;
+$font_medium: 30px;
+body{
+  background-color: $primary_color;
+}
+.titolo{
+  color: $title_color;
+  font-size: $font_big;
+}
+.titolo_secondary{
+  color: $secondary_color;
+}
+.paragrafo{
+  color: $paragraph_color;
+}
+.bottone{
+  color: $button_color;
+  background-color: grey;
+  border: none;
+  padding: 10px;
+}
